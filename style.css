@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Akash;
+  src: url(./fonts/AMS\ Aakul\ 4\ Regular.ttf);
+}
+body {
+  background-color: black;
+}
+.head {
+  animation: slideInLeft;
+  animation-duration: 5s;
+  font-family: Akash;
+  text-align: left;
+  margin-left: 30px;
+  font-weight: 1;
+  font-stretch: extra-condensed;
+  color: white;
+  font-size: 60px;
+}
