@@ -1,4 +1,4 @@
-<center> Sambandha <center>
+<center><h1>Sambandha</h1> </center>
   <br>
   <br>
-A way to increase your relation towards other.
+<p>A way to increase your relation towards other. </p>
